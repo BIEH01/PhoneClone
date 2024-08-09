@@ -11,7 +11,7 @@ const HowItWorks = () => {
 		gsap.from("#chip", {
 			scrollTrigger: {
 				trigger: "#chip",
-				start: "20% bottom",
+				start: "10% bottom",
 			},
 			opacity: 0,
 			scale: 2,
@@ -79,7 +79,7 @@ const HowItWorks = () => {
 								best graphic performance by far.
 							</span>{" "}
 						</p>
-
+						<br />
 						<p className="hiw-text g_fadeIn">
 							Mobile{" "}
 							<span className="text-white">
