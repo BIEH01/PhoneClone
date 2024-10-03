@@ -53,7 +53,7 @@ const Features = () => {
 				</div>
 				<div className="flex flex-col justify-center items-center overflow-hidden">
 					<div className="mt-32 mb-24 pl-24">
-						<h2 className="text-5xl lg:text-7xl font-semibold">iPhone.</h2>
+						<h2 className="text-5xl lg:text-7xl font-semibold">Phone.</h2>
 						<h2 className="text-5xl lg:text-7xl font-semibold">
 							Forged in Titanium.
 						</h2>
@@ -94,9 +94,9 @@ const Features = () => {
 							<div className="feature-text-container">
 								<div className="flex-1 flex-center">
 									<p className="feature-text g_text">
-										iPhone 15 Pro is{" "}
+										Phone is{" "}
 										<span className="text-white">
-											the first iPhone to feature an aerospace-grade titanium
+											the first Phone to feature an aerospace-grade titanium
 											design,
 										</span>{" "}
 										using the same alloy that spacecraft use for missions to
@@ -105,10 +105,10 @@ const Features = () => {
 								</div>
 								<div className="flex-1 flex-center">
 									<p className="feature-text g_text">
-										Titanium has one of the best strength-to-weight ratios fo
+										Titanium has one of the best strength-to-weight ratios for
 										any metal, making these our{" "}
-										<span className="text-white">lightest Pro models ever</span>
-										. You'll notice the difference the moment you pick one up.
+										<span className="text-white">lightest models ever</span>.
+										You'll notice the difference the moment you pick one up.
 									</p>
 								</div>
 							</div>

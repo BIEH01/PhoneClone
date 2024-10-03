@@ -11,7 +11,7 @@ const HowItWorks = () => {
 		gsap.from("#chip", {
 			scrollTrigger: {
 				trigger: "#chip",
-				start: "10% bottom",
+				start: "5% bottom",
 			},
 			opacity: 0,
 			scale: 2,
@@ -36,11 +36,11 @@ const HowItWorks = () => {
 
 				<div className="flex flex-col items-center">
 					<h2 className="hiw-title">
-						A7 Pro chip.
+						A7 chip.
 						<br /> A monster win for gaming.
 					</h2>
 					<p className="hiw-subtitle">
-						It's here. The biggest redesign in the history of Apple GPUs.
+						It's here. The biggest redesign in the history of Phone GPUs.
 					</p>
 				</div>
 
@@ -74,7 +74,7 @@ const HowItWorks = () => {
 				<div className="hiw-text-container">
 					<div className="flex flex-1 justify-center flex-col">
 						<p className="hiw-text g_fadeIn">
-							A7 Pro is an entirely new class of iPhone chip that delivers our{" "}
+							A7 Pro is an entirely new class of Phone chip that delivers our{" "}
 							<span className="text-white">
 								best graphic performance by far.
 							</span>{" "}
