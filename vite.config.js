@@ -11,7 +11,7 @@ export default defineConfig({
 			project: "javascript-react-iphone-15-pro-clone",
 		}),
 	],
-	base: "/",
+	base: "/PhoneClone/",
 
 	build: {
 		sourcemap: true,
